@@ -1,7 +1,7 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project>
-  <transcriptionFont>DharmaKara Unicode, 14.25, Regular</transcriptionFont>
-  <freeTranslationFont />
+  <transcriptionFont>Segoe UI, 14.25, Regular</transcriptionFont>
+  <freeTranslationFont>Segoe UI, 26.25, Regular</freeTranslationFont>
   <AutoSegmentersettings minSegmentLength="0" maxSegmentLength="0" preferrerdPauseLength="0" optimumLengthClampingFactor="0" />
   <Title>MV0303</Title>
   <FundingProjectTitle />
